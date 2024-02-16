@@ -1,0 +1,1 @@
+This is a simple webpage of Gold testing Centre which provide necessary details about the centre. What type of testings are done and how much price amount is allocated for each testing and it has advanced register option for priority registration. 
